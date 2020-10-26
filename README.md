@@ -2,7 +2,7 @@
 
 Hi, this space is a playground for me to test out technologies that I'll be using in future projects. Updates on my progress will be added here:
 
-October 26th, 2020
+October 26th, 2020\n
   -Created new repo and cloned it to my local system using Git Bash.
   -Run a few APIs in Postman.
     *Weather API: api.openweathermap.org/data/2.5/weather?q=phoenix&appid=*APPIDI REMOVED ON PURPOSE*
